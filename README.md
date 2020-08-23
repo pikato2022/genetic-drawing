@@ -1,8 +1,8 @@
 # Genetic Drawing
-This is a project I learn about Reinformence learning especially How Genetic Algorithm work.
+This is a project I learn about Reinforcement learning especially How Genetic Algorithm work.
 ## Genetic Algorithm Explained
 1. Create a random DNA list as population. In this project DNA is a list of brush stroke
-2. Measure the fitness of image to target image. (The measure is simple by perform substract between target image and generated image)
+2. Measure the fitness of image to target image. (The measure is simple by perform subtract between target image and generated image)
 3. Generate (Evolve) new generation of DNA by crossover and mutation. If child has less error than parent so replace parent
 (Try with 180 stage and 20 generation each stage)
 
